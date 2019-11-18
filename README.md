@@ -4,7 +4,8 @@ Dotfiles for Ubuntu on WSL
 
 ## Ideas
 
-- Create Go application for installation + templating?
+- Create Go application for installation + templating? DONE: [TwinProduction/gemplater](TwinProduction/gemplater) 
+
 
 i.e.
 
